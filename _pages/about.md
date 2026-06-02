@@ -107,9 +107,7 @@ Applied biotechnology innovation, scientific prototyping, computational biology 
 
 ## Connect
 
-Feel free to reach out for collaboration, research opportunities, or scientific discussion:
-
-📧 mhdhroji@gmail.com  
+📧 mhdhroji@gmail.com, mahdiehrojhan@gmail.com  
 🔗 [GitHub](https://github.com/RojhanGenomics)  
-🔗 [LinkedIn](https://linkedin.com/in/mahdieh-rojhannezhad)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad)  
 🌐 [Website](https://RojhanGenomics.github.io)

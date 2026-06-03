@@ -69,4 +69,26 @@ feature_row:
 
 📍 Tehran, Iran  
 📧 [mhdhroji@gmail.com](mailto:mhdhroji@gmail.com)  
-🔗 [GitHub](https://github.com/RojhanGenomics) | [LinkedIn](https://linkedin.com/in/mahdieh-rojhannezhad) | [ResearchGate](#)
+---
+
+📱 **WhatsApp**
+
+[Chat on WhatsApp](https://wa.me/989364485007)
+
+✈️ **Telegram**
+
+[Message on Telegram](https://t.me/Mahdr20)
+
+💼 **LinkedIn**
+
+[LinkedIn Profile](https://www.linkedin.com/in/mahdieh-rojhannezhad/)
+
+🐙 **GitHub**
+
+[GitHub Profile](https://github.com/RojhanGenomics)
+
+💻 **Upwork**
+
+[Upwork Profile](https://www.upwork.com/freelancers/~015ac027e4d434b2e7)
+
+Add contact links

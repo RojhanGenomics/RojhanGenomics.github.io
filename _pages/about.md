@@ -111,3 +111,4 @@ Applied biotechnology innovation, scientific prototyping, computational biology 
 🔗 [GitHub](https://github.com/RojhanGenomics)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad)  
 🌐 [Website](https://RojhanGenomics.github.io)
+🔗 [Upwork](https://www.upwork.com/freelancers/~015ac027e4d434b2e7)

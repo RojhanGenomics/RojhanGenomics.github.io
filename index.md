@@ -2,9 +2,8 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#2c3e50"
-  overlay_filter: "0.5"
-  overlay_image: /images/header-bg.jpg
+  overlay_color: "#1a5f7a"
+  overlay_filter: "0.3"
   actions:
     - label: "View My Portfolio"
       url: "/portfolio/"
@@ -65,73 +64,35 @@ feature_row:
 
 [View all publications →](/publications/)
 
+---
 
+## 🤖 AI Assistant on Telegram
 
-# 🧬 Mahdieh Rojhannezhad, PhD
-
-Geneticist | Genomics Researcher | Bioinformatics Consultant
-
-Welcome to my research and professional hub.
+**Chat with my professional bot:** [t.me/RojhanGenomicsBot](https://t.me/RojhanGenomicsBot)
 
 ---
 
-## 🤖 AI Assistant
+## 📞 Contact & Connect
 
-Telegram Bot:
-https://t.me/RojhanGenomicsBot
-
----
-
-## 📞 Contact Information
-
-📍 Tehran, Iran  
-📧 [mhdhroji@gmail.com](mailto:mhdhroji@gmail.com)  
-
-📱 WhatsApp
-https://wa.me/989364485007
-
-✈️ Telegram
-https://t.me/Mahdr20
-
-🔗 LinkedIn
-https://www.linkedin.com/in/mahdieh-rojhannezhad/
-
-💼 Upwork
-https://www.upwork.com/freelancers/~015ac027e4d434b2e7
-
-🌐 Website
-https://RojhanGenomics.github.io
-
----
-
-## 🐙 GitHub
-
-GitHub Profile:
-https://github.com/RojhanGenomics
+| Platform | Link |
+|----------|------|
+| 📧 Email | [mhdhroji@gmail.com](mailto:mhdhroji@gmail.com) |
+| 📱 WhatsApp | [wa.me/989364485007](https://wa.me/989364485007) |
+| ✈️ Telegram | [t.me/Mahdr20](https://t.me/Mahdr20) |
+| 🔗 LinkedIn | [linkedin.com/in/mahdieh-rojhannezhad](https://linkedin.com/in/mahdieh-rojhannezhad) |
+| 💼 Upwork | [upwork.com/freelancers/~015ac027e4d434b2e7](https://www.upwork.com/freelancers/~015ac027e4d434b2e7) |
+| 🌐 Website | [RojhanGenomics.github.io](https://RojhanGenomics.github.io) |
+| 🐙 GitHub | [github.com/RojhanGenomics](https://github.com/RojhanGenomics) |
 
 ---
 
 ## 🔬 Featured Genomics Projects
 
-### WES Variant Interpretation Case Study
-
-https://github.com/RojhanGenomics/WES-variant-interpretation-case-study
-
-### HER2 Enhancer Functional Analysis
-
-https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis
-
-### RNA-seq Differential Expression Analysis
-
-https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis
-
-### Scientific Figure BioRender Collections
-
-https://github.com/RojhanGenomics/Scientific-Figure-BioRender-Collections
-
-### Polygenic Risk Score Literature Review
-
-https://github.com/RojhanGenomics/PRS-literature-review
+- 🔗 [WES Variant Interpretation Case Study](https://github.com/RojhanGenomics/WES-variant-interpretation-case-study)
+- 🔗 [HER2 Enhancer Functional Analysis](https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis)
+- 🔗 [RNA-seq Differential Expression Analysis](https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis)
+- 🔗 [Scientific Figure BioRender Collections](https://github.com/RojhanGenomics/Scientific-Figure-BioRender-Collections)
+- 🔗 [Polygenic Risk Score Literature Review](https://github.com/RojhanGenomics/PRS-literature-review)
 
 ---
 
@@ -139,34 +100,13 @@ https://github.com/RojhanGenomics/PRS-literature-review
 
 Available for:
 
-• Genomics Research Projects
-
-• Bioinformatics Analysis
-
-• Scientific Writing
-
-• Literature Review
-
-• Academic Collaboration
-
-• Freelance Consulting
-
-Please contact me via WhatsApp, Telegram, LinkedIn, or Upwork.
+- Genomics Research Projects
+- Bioinformatics Analysis
+- Scientific Writing
+- Literature Review
+- Academic Collaboration
+- Freelance Consulting
 
 ---
 
-## 📱 Scan & Connect
-
-Scan the QR Code linked to this website to access:
-
-• AI Assistant Bot
-
-• Contact Information
-
-• Research Portfolio
-
-• GitHub Projects
-
-• LinkedIn Profile
-
-• Upwork Profile
+📍 **Tehran, Iran** | 📧 mhdhroji@gmail.com

@@ -65,37 +65,108 @@ feature_row:
 
 [View all publications →](/publications/)
 
-## Connect With Me
 
-📍 Tehran, Iran  
-📧 [mhdhroji@gmail.com](mailto:mhdhroji@gmail.com)  
+
+# 🧬 Mahdieh Rojhannezhad, PhD
+
+Geneticist | Genomics Researcher | Bioinformatics Consultant
+
+Welcome to my research and professional hub.
+
 ---
 
-📱 **WhatsApp**
-
-[Chat on WhatsApp](https://wa.me/989364485007)
-
-✈️ **Telegram**
-
-[Message on Telegram](https://t.me/Mahdr20)
-
-💼 **LinkedIn**
-
-[LinkedIn Profile](https://www.linkedin.com/in/mahdieh-rojhannezhad/)
-
-🐙 **GitHub**
-
-[GitHub Profile](https://github.com/RojhanGenomics)
-
-💻 **Upwork**
-
-[Upwork Profile](https://www.upwork.com/freelancers/~015ac027e4d434b2e7)
-
-### AI Assistant
-
-Need information about my research, services, or collaborations?
+## 🤖 AI Assistant
 
 Telegram Bot:
 https://t.me/RojhanGenomicsBot
 
+---
 
+## 📞 Contact Information
+
+📍 Tehran, Iran  
+📧 [mhdhroji@gmail.com](mailto:mhdhroji@gmail.com)  
+
+📱 WhatsApp
+https://wa.me/989364485007
+
+✈️ Telegram
+https://t.me/Mahdr20
+
+🔗 LinkedIn
+https://www.linkedin.com/in/mahdieh-rojhannezhad/
+
+💼 Upwork
+https://www.upwork.com/freelancers/~015ac027e4d434b2e7
+
+🌐 Website
+https://RojhanGenomics.github.io
+
+---
+
+## 🐙 GitHub
+
+GitHub Profile:
+https://github.com/RojhanGenomics
+
+---
+
+## 🔬 Featured Genomics Projects
+
+### WES Variant Interpretation Case Study
+
+https://github.com/RojhanGenomics/WES-variant-interpretation-case-study
+
+### HER2 Enhancer Functional Analysis
+
+https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis
+
+### RNA-seq Differential Expression Analysis
+
+https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis
+
+### Scientific Figure BioRender Collections
+
+https://github.com/RojhanGenomics/Scientific-Figure-BioRender-Collections
+
+### Polygenic Risk Score Literature Review
+
+https://github.com/RojhanGenomics/PRS-literature-review
+
+---
+
+## 🤝 Collaboration
+
+Available for:
+
+• Genomics Research Projects
+
+• Bioinformatics Analysis
+
+• Scientific Writing
+
+• Literature Review
+
+• Academic Collaboration
+
+• Freelance Consulting
+
+Please contact me via WhatsApp, Telegram, LinkedIn, or Upwork.
+
+---
+
+## 📱 Scan & Connect
+
+Scan the QR Code linked to this website to access:
+
+• AI Assistant Bot
+
+• Contact Information
+
+• Research Portfolio
+
+• GitHub Projects
+
+• LinkedIn Profile
+
+• Upwork Profile

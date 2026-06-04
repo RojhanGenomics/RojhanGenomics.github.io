@@ -3,8 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#1a5f7a"
-  overlay_filter: "0.7"
-  overlay_image: /images/header-bg.jpg
+  overlay_filter: "0"
   actions:
     - label: "View My Portfolio"
       url: "/portfolio/"

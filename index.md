@@ -91,4 +91,11 @@ feature_row:
 
 [Upwork Profile](https://www.upwork.com/freelancers/~015ac027e4d434b2e7)
 
+### AI Assistant
+
+Need information about my research, services, or collaborations?
+
+Telegram Bot:
+https://t.me/RojhanGenomicsBot
+
 

@@ -2,14 +2,25 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#1a5f7a"
-  overlay_filter: "0"
+  overlay_color: "#0a1628"
+  overlay_filter: "0.5"
+  overlay_image: /images/header-bg.png
   actions:
-    - label: "View My Portfolio"
+    - label: "🔬 View My Portfolio"
       url: "/portfolio/"
-    - label: "GitHub Repositories"
+    - label: "💻 GitHub Repositories"
       url: "https://github.com/RojhanGenomics"
-excerpt: "**Cancer Genomics Researcher** | CRISPR/Cas9 Specialist | Molecular Geneticist | Genomic Data Analyst"
+excerpt: >
+  <h1 style="font-size:2.8em; font-weight:800; color:#ffffff; margin-bottom:0.3em;">
+  Mahdieh Rojhannezhad, Ph.D.</h1>
+  <p style="font-size:1.1em; color:#a8d8f0; letter-spacing:0.05em;">
+  Cancer Genomics Research &nbsp;|&nbsp; Functional Genomics &nbsp;|&nbsp; Precision Medicine</p>
+  <div style="margin-top:1em; display:flex; gap:10px; flex-wrap:wrap;">
+    <span style="background:rgba(255,255,255,0.15); color:#ffffff; padding:6px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.4); font-size:0.9em;">🧬 Cancer Genomics Researcher</span>
+    <span style="background:rgba(255,255,255,0.15); color:#ffffff; padding:6px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.4); font-size:0.9em;">✂️ CRISPR/Cas9 Specialist</span>
+    <span style="background:rgba(255,255,255,0.15); color:#ffffff; padding:6px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.4); font-size:0.9em;">🔬 Molecular Geneticist</span>
+    <span style="background:rgba(255,255,255,0.15); color:#ffffff; padding:6px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.4); font-size:0.9em;">📊 Genomic Data Analyst</span>
+  </div>
 
 intro:
   - excerpt: "Bridging molecular genetics, cancer genomics, and computational biology to advance **precision medicine** and **translational biotechnology**."
@@ -43,6 +54,7 @@ feature_row:
     url: "https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis"
     btn_label: "View Project"
     btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}

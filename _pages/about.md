@@ -75,7 +75,7 @@ Experienced in integrating molecular biology techniques with emerging computatio
 - 🏆 **Ranked 8th** nationally in Iran's Ph.D. Entrance Examination for Medical Genetics (2014)
 - 🏆 **Ranked 13th** nationally in Iran's Ph.D. Entrance Examination for Molecular Genetics (2017)
 - 🔬 Developed enhanced DNA extraction methodology for paraffin-embedded tissue samples
-- 🧪 Participated in development of advanced cell culture media and nucleotide size standards
+- 🧪 Participated in the development of advanced cell culture media and nucleotide size standards
 
 ---
 
@@ -112,3 +112,12 @@ Applied biotechnology innovation, scientific prototyping, computational biology 
 🔗 [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad)  
 🌐 [Website](https://RojhanGenomics.github.io)
 🔗 [Upwork](https://www.upwork.com/freelancers/~015ac027e4d434b2e7)
+
+## What Colleagues Say
+
+> *"I have worked with Dr. Mahdieh Rojhannezhad and can confidently say she is an exceptional researcher in cancer genomics and CRISPR/Cas9. Her work is published in Scientific Reports (Nature). She is highly skilled in both molecular biology and bioinformatics (including WES and variant analysis). I recommend her without hesitation for any research, teaching, or consulting role."*
+
+**— Dr. Javad Karim Zad Hagh, Ph.D. in Human Genetics**  
+*University of Düsseldorf, Germany*
+
+🔗 [View this recommendation on LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad/details/recommendations/)

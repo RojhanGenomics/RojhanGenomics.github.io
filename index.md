@@ -44,6 +44,20 @@ feature_row:
     url: "https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis"
     btn_label: "View Project"
     btn_class: "btn--primary"
+  - image_path: /images/md-icon.png
+    alt: "Molecular Dynamics Simulation"
+    title: "TP53–PRIMA-1 MD Simulation"
+    excerpt: "GROMACS-based simulation of a p53-reactivating small molecule — Work in Progress"
+    url: "https://github.com/RojhanGenomics/tp53-prima1-md-simulation"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: /images/peacehealth-icon.png
+    alt: "PeaceHealth Insights"
+    title: "PeaceHealth Insights"
+    excerpt: "Multilingual digital mental health screening app — submitted to the Digital Public Goods Alliance"
+    url: "https://peacehealthapp-n74abyvxomzlztjnbbpbe7.streamlit.app/"
+    btn_label: "Try Live Demo"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -94,6 +108,8 @@ feature_row:
 - 🔗 [RNA-seq Differential Expression Analysis](https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis)
 - 🔗 [Scientific Figure BioRender Collections](https://github.com/RojhanGenomics/Scientific-Figure-BioRender-Collections)
 - 🔗 [Polygenic Risk Score Literature Review](https://github.com/RojhanGenomics/PRS-literature-review)
+- 🚧 [TP53–PRIMA-1 MD Simulation (Work in Progress)](https://github.com/RojhanGenomics/tp53-prima1-md-simulation)
+- 🩺 [PeaceHealth Insights (Live Demo)](https://peacehealthapp-n74abyvxomzlztjnbbpbe7.streamlit.app/)
 
 ---
 

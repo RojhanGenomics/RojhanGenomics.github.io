@@ -1,10 +1,9 @@
-# Welcome to my academic portfolio site
-# This file contains main configuration
+# Academic portfolio site configuration
 
 title: Mahdieh Rojhannezhad
 subtitle: Ph.D. in Genetics | Cancer Genomics Researcher
 name: Mahdieh Rojhannezhad
-description: Cancer Genomics Researcher specializing in CRISPR/Cas9, regulatory genomics, and precision medicine
+description: Ph.D. Geneticist working across cancer genomics, functional genomics, CRISPR/Cas9, regulatory genomics, genomic data analysis, and translational biotechnology.
 avatar: "/images/avatar.jpg"
 
 # Search engine optimization
@@ -13,14 +12,14 @@ url: "https://rojhangenomics.github.io"
 baseurl: ""
 repository: RojhanGenomics/RojhanGenomics.github.io
 
-# Social links
+# Social / academic profiles
 github_username: RojhanGenomics
 linkedin_username: mahdieh-rojhannezhad
 researchgate_username: Mahdieh-Rojhannezhad
 orcid_id: 0009-0009-2427-718X
 email: mhdhroji@gmail.com
 
-# Academic Pages settings
+# Academic Pages / Jekyll settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
@@ -59,7 +58,7 @@ defaults:
       layout: "single"
       author_profile: true
 
-# Analytics (optional - you can add later)
+# Analytics can be added later after a preferred provider is selected.
 # google_analytics: UA-XXXXXXXX-X
 
 # Exclude files from processing

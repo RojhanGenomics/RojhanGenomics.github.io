@@ -7,6 +7,32 @@ author_profile: true
 
 ## 🧬 Featured Genomics Projects
 
+### PX459-v2 gRNA Cloning Under Resource Constraints
+
+Retrospective documentation and evidence audit of a resource-constrained adaptation of a PX459-v2 gRNA cloning workflow. The archived project documents feasibility under reported laboratory constraints without claiming protocol superiority.
+
+- **DOI:** [10.5281/zenodo.22086082](https://doi.org/10.5281/zenodo.22086082)
+- **Type:** Software / research workflow documentation
+- **Version:** 1.0.1
+
+🔗 [GitHub Repository](https://github.com/RojhanGenomics/px459-v2-resource-constrained-cloning)  
+🔗 [Zenodo Record](https://doi.org/10.5281/zenodo.22086082)
+
+---
+
+### Manual FFPE DNA Extraction for Long-Amplicon PCR
+
+Retrospective documentation of a resource-accessible manual FFPE DNA extraction optimization aimed at improving recovery of longer PCR-amplicon targets in a subset of samples.
+
+- **DOI:** [10.5281/zenodo.22091030](https://doi.org/10.5281/zenodo.22091030)
+- **Type:** Dataset / research documentation
+- **Version:** 1.0.1
+
+🔗 [GitHub Repository](https://github.com/RojhanGenomics/ffpe-manual-dna-extraction-long-amplicon-pcr)  
+🔗 [Zenodo Record](https://doi.org/10.5281/zenodo.22091030)
+
+---
+
 ### Whole Exome Sequencing (WES) Variant Interpretation
 
 Complete workflow for rare disease diagnosis, including variant filtering, ACMG classification, and clinical reporting.

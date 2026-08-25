@@ -25,8 +25,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/crispr-icon.png
     alt: "CRISPR/Cas9"
-    title: "CRISPR/Cas9 Functional Genomics"
-    excerpt: "Enhancer regulation in HER2+ breast cancer - published in Scientific Reports"
+    title: "HER2 Enhancer Functional Analysis"
+    excerpt: "CRISPR/Cas9 functional genomics in breast cancer — published in Scientific Reports"
     url: "https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis"
     btn_label: "View Project"
     btn_class: "btn--primary"
@@ -66,6 +66,18 @@ feature_row:
 
 {% include feature_row %}
 
+## DOI-Archived Research Outputs
+
+### PX459-v2 gRNA Cloning Under Resource Constraints
+Retrospective research documentation and evidence audit of a resource-constrained PX459-v2 gRNA cloning workflow.
+
+**DOI:** [10.5281/zenodo.22086082](https://doi.org/10.5281/zenodo.22086082) · [GitHub Repository](https://github.com/RojhanGenomics/px459-v2-resource-constrained-cloning)
+
+### Manual FFPE DNA Extraction for Long-Amplicon PCR
+Retrospective documentation of a manual FFPE DNA extraction optimization focused on recovery of longer PCR-amplicon targets in a subset of samples.
+
+**DOI:** [10.5281/zenodo.22091030](https://doi.org/10.5281/zenodo.22091030) · [GitHub Repository](https://github.com/RojhanGenomics/ffpe-manual-dna-extraction-long-amplicon-pcr)
+
 ## Recent Publications
 
 - **Functional analysis of a putative HER2-associated expressed enhancer, Her2-Enhancer1, in breast cancer cells**  
@@ -98,6 +110,7 @@ feature_row:
 | 💼 Upwork | [upwork.com/freelancers/~015ac027e4d434b2e7](https://www.upwork.com/freelancers/~015ac027e4d434b2e7) |
 | 🌐 Website | [RojhanGenomics.github.io](https://RojhanGenomics.github.io) |
 | 🐙 GitHub | [github.com/RojhanGenomics](https://github.com/RojhanGenomics) |
+| 🟢 ORCID | [0009-0009-2427-718X](https://orcid.org/0009-0009-2427-718X) |
 
 ---
 
@@ -105,9 +118,10 @@ feature_row:
 
 - 🔗 [WES Variant Interpretation Case Study](https://github.com/RojhanGenomics/WES-variant-interpretation-case-study)
 - 🔗 [HER2 Enhancer Functional Analysis](https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis)
+- 🔗 [PX459-v2 gRNA Cloning Under Resource Constraints](https://github.com/RojhanGenomics/px459-v2-resource-constrained-cloning) — DOI archived
+- 🔗 [Manual FFPE DNA Extraction for Long-Amplicon PCR](https://github.com/RojhanGenomics/ffpe-manual-dna-extraction-long-amplicon-pcr) — DOI archived
 - 🔗 [RNA-seq Differential Expression Analysis](https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis)
 - 🔗 [Scientific Figure BioRender Collections](https://github.com/RojhanGenomics/Scientific-Figure-BioRender-Collections)
-- 🔗 [Polygenic Risk Score Literature Review](https://github.com/RojhanGenomics/PRS-literature-review)
 - 🚧 [TP53–PRIMA-1 MD Simulation (Work in Progress)](https://github.com/RojhanGenomics/tp53-prima1-md-simulation)
 - 🩺 [PeaceHealth Insights (Live Demo)](https://peacehealthapp-n74abyvxomzlztjnbbpbe7.streamlit.app/)
 

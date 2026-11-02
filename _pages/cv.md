@@ -9,6 +9,7 @@ layout: single
 
 **Geneticist | Cancer & Functional Genomics | Molecular Diagnostics | Computational Genomics | Laboratory Quality**
 
+**Location:** Iran  
 [mahdiehrojhan@gmail.com](mailto:mahdiehrojhan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad/) · [GitHub](https://github.com/RojhanGenomics) · [ORCID](https://orcid.org/0009-0009-2427-718X)
 
 ## Professional summary
@@ -27,12 +28,12 @@ Cancer and functional genomics · Regulatory genomics and enhancer biology · CR
 - Contributed to protocol optimization and research-oriented biotechnology initiatives.
 
 ### Supervisor — Molecular & Cytogenetic Departments
-**Watson Medical Genetics Laboratory, Tehran | 2015–2019**
+**Watson Medical Genetics Laboratory, Tehran, Iran | 2015–2019**
 - Led a team of 5–6 laboratory professionals and coordinated diagnostic laboratory operations and technical workflows.
 - Oversaw PCR, RT-PCR, qPCR, karyotyping, and DNA/RNA extraction, with responsibility for quality and reporting accuracy.
 
 ### Lecturer — Genetic Counseling
-**University of Rehabilitation Sciences & Social Welfare, Mashhad | 2014–2016**
+**University of Rehabilitation Sciences & Social Welfare, Mashhad, Iran | 2014–2016**
 - Taught genetics and genetic counseling.
 - Mentored student research projects and scientific presentations.
 
@@ -78,7 +79,7 @@ Self-directed study complementing prior diagnostic-laboratory quality responsibi
 
 ## Selected publications
 
-- Rojhannezhad M, Soltani BM, Vasei M, Ghorbanmehr N, Mowla SJ. Functional analysis of a putative HER2-associated expressed enhancer, Her2-Enhancer1, in breast cancer cells. *Scientific Reports*. 2023;13:19516.
+- Rojhannezhad M, Soltani BM, Vasei M, Ghorbanmehr N, Mowla SJ. Functional analysis of a putative HER2-associated expressed enhancer, Her2-Enhancer1, in breast cancer cells. *Scientific Reports*. 2023;13:19516. [DOI](https://doi.org/10.1038/s41598-023-46460-x)
 - Rojhannezhad M, Mowla SJ. Gene Editing for Unraveling the Regulatory Role of a HER2-Associated Enhancer with lncRNA GAS5 and Related Genes in Breast Cancer Cells. *Journal of Advanced Immunopharmacology*. 2024;4(1):e142988.
 - Rojhannezhad M, Hoseinpourfeizi MA, Pouladi N. The association between Survivin −31 G/C promoter polymorphism and breast cancer risk. *Zahedan Journal of Research in Medical Sciences*. 2015;17(6).
 - Rojhannezhad M. Functional and Bioinformatic Investigation of HER2-Enhancer1 Using CRISPR/Cas9 Technology. *Sarem Journal of Medical Research*. 2023.

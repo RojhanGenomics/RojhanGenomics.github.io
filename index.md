@@ -84,7 +84,7 @@ A citable snapshot of a computational molecular-dynamics project; the project re
 - **The association between Survivin −31 G/C promoter polymorphism and breast cancer risk** — *Zahedan Journal of Research in Medical Sciences*, 2015.
 - **Functional and Bioinformatic Investigation of HER2-Enhancer1 Using CRISPR/Cas9 Technology** — *Sarem Journal of Medical Research*, 2023.
 
-[View the CV](/cv/) · [View all portfolio projects](/portfolio/) · [Publications](/publications/)
+[View the CV](/cv/) · [View all portfolio projects](/portfolio/)
 
 ## Research & Professional Links
 

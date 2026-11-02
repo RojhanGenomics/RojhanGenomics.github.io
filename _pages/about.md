@@ -9,6 +9,7 @@ layout: single
 
 **Geneticist | Cancer & Functional Genomics | Molecular Diagnostics | Computational Genomics | Laboratory Quality**
 
+**Location:** Iran  
 [Email](mailto:mahdiehrojhan@gmail.com) · [GitHub](https://github.com/RojhanGenomics) · [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad/) · [ORCID](https://orcid.org/0009-0009-2427-718X)
 
 ## Professional profile
@@ -31,10 +32,10 @@ My current portfolio also includes independent, project-based work in computatio
 **Senior Specialist — Genetic Diagnostic Laboratories** | Iran | 2014–2023  
 Molecular and cytogenetic analyses, DNA/RNA extraction, PCR-based testing, cell culture, and contributions to protocol optimization.
 
-**Supervisor — Molecular & Cytogenetic Departments, Watson Medical Genetics Laboratory** | Tehran | 2015–2019  
+**Supervisor — Molecular & Cytogenetic Departments, Watson Medical Genetics Laboratory** | Tehran, Iran | 2015–2019  
 Led a team of 5–6 laboratory professionals and coordinated diagnostic workflows, including PCR, RT-PCR, qPCR, karyotyping, extraction procedures, and reporting-quality activities.
 
-**Lecturer — Genetic Counseling, University of Rehabilitation Sciences & Social Welfare** | Mashhad | 2014–2016  
+**Lecturer — Genetic Counseling, University of Rehabilitation Sciences & Social Welfare** | Mashhad, Iran | 2014–2016  
 Teaching in genetics and genetic counseling, with student mentoring and support for research presentations.
 
 ## Selected research

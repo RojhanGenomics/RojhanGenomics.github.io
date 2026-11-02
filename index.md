@@ -13,46 +13,40 @@ header:
 excerpt: "Cancer Genomics | Functional & Regulatory Genomics | Molecular Genetics | Computational Genomics"
 
 intro:
-  - excerpt: "Ph.D. geneticist with professional experience in molecular and cytogenetic diagnostics, laboratory supervision, cancer functional genomics, and scientific education. Current computational portfolio includes project-based WES, viral-genomics, RNA-seq, and molecular-dynamics workflows."
+  - excerpt: "Ph.D. geneticist based in Iran, with professional experience in molecular and cytogenetic diagnostics, laboratory supervision, cancer functional genomics, and scientific education. Current computational portfolio includes project-based WES, viral-genomics, RNA-seq, and molecular-dynamics workflows."
 
 feature_row:
-  - image_path: /images/crispr-icon.png
-    alt: "HER2 enhancer functional genomics"
+  - alt: "HER2 enhancer functional genomics"
     title: "HER2 Enhancer Functional Analysis"
     excerpt: "Doctoral research using CRISPR/Cas9 to investigate a HER2-associated regulatory enhancer in breast cancer."
     url: "https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis"
     btn_label: "View Research"
     btn_class: "btn--primary"
-  - image_path: /images/wes-icon.png
-    alt: "Whole exome sequencing"
+  - alt: "Whole exome sequencing"
     title: "Whole-Exome Sequencing Workflow"
     excerpt: "Project-based Nextflow DSL2 workflow using fastp, BWA-MEM, SAMtools, GATK, and VEP."
     url: "https://github.com/RojhanGenomics/human-wes-pipeline"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/viral-pipeline-teaser.png
-    alt: "Viral genomics pipeline"
+  - alt: "Viral genomics pipeline"
     title: "Viral Genomics Workflow"
     excerpt: "Reproducible Nextflow workflow tested on public Ebola virus sequencing data."
     url: "https://github.com/RojhanGenomics/viral-genomics-nextflow"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/rnaseq-icon.png
-    alt: "RNA sequencing"
+  - alt: "RNA sequencing"
     title: "RNA-seq Differential Expression"
     excerpt: "Project-based transcriptomic analysis and biological interpretation."
     url: "https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/md-icon.png
-    alt: "Molecular dynamics"
+  - alt: "Molecular dynamics"
     title: "TP53–PRIMA-1 Molecular Dynamics"
     excerpt: "Docking-to-MD computational project; work in progress."
     url: "https://github.com/RojhanGenomics/tp53-prima1-md-simulation"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/prs-icon.png
-    alt: "Polygenic risk scores"
+  - alt: "Polygenic risk scores"
     title: "PRS Literature Review"
     excerpt: "Literature synthesis on polygenic risk scores and precision medicine."
     url: "https://github.com/RojhanGenomics/PRS-literature-review"
@@ -94,6 +88,7 @@ A citable snapshot of a computational molecular-dynamics project; the project re
 
 ## Research & Professional Links
 
+- **Location:** Iran
 - [ORCID: 0009-0009-2427-718X](https://orcid.org/0009-0009-2427-718X)
 - [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad/)
 - [GitHub](https://github.com/RojhanGenomics)
@@ -102,4 +97,3 @@ A citable snapshot of a computational molecular-dynamics project; the project re
 ## Contact
 
 For research collaboration, genomics analysis, scientific writing, or consulting inquiries: [mahdiehrojhan@gmail.com](mailto:mahdiehrojhan@gmail.com)
-

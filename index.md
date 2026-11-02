@@ -6,132 +6,94 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/header-bg.png
   actions:
-    - label: "🔬 View Research Portfolio"
+    - label: "View Research Portfolio"
       url: "/portfolio/"
-    - label: "💻 GitHub Projects"
+    - label: "GitHub Projects"
       url: "https://github.com/RojhanGenomics"
-excerpt: "<p style='font-size:1.1em; color:#a8d8f0; letter-spacing:0.05em; margin-top:0.5em;'>Cancer Genomics &nbsp;|&nbsp; Functional Genomics &nbsp;|&nbsp; Translational & Computational Biology</p><div style='margin-top:1em; display:flex; gap:10px; flex-wrap:wrap;'><span style='background:rgba(255,255,255,0.15); color:#ffffff; padding:6px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.4); font-size:0.9em;'>🧬 Cancer Genomics</span><span style='background:rgba(255,255,255,0.15); color:#ffffff; padding:6px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.4); font-size:0.9em;'>✂️ CRISPR/Cas9 & Functional Genomics</span><span style='background:rgba(255,255,255,0.15); color:#ffffff; padding:6px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.4); font-size:0.9em;'>📊 Genomic Data Analysis</span></div>"
+excerpt: "Cancer Genomics | Functional & Regulatory Genomics | Molecular Genetics | Computational Genomics"
 
 intro:
-  - excerpt: "Ph.D. Geneticist working at the intersection of **cancer genomics, functional genomics, molecular genetics, and computational biology**, with an emphasis on reproducible research documentation and translational applications."
+  - excerpt: "Ph.D. geneticist based in Iran, with professional experience in molecular and cytogenetic diagnostics, laboratory supervision, cancer functional genomics, and scientific education. Current computational portfolio includes project-based WES, viral-genomics, RNA-seq, and molecular-dynamics workflows."
 
 feature_row:
-  - image_path: /images/wes-icon.png
-    alt: "WES Analysis"
-    title: "Whole Exome Sequencing"
-    excerpt: "Variant interpretation, ACMG classification, and rare disease genomics"
-    url: "https://github.com/RojhanGenomics/WES-variant-interpretation-case-study"
-    btn_label: "View Project"
-    btn_class: "btn--primary"
-  - image_path: /images/crispr-icon.png
-    alt: "CRISPR/Cas9"
+  - alt: "HER2 enhancer functional genomics"
     title: "HER2 Enhancer Functional Analysis"
-    excerpt: "CRISPR/Cas9 functional genomics in breast cancer — published in Scientific Reports"
+    excerpt: "Doctoral research using CRISPR/Cas9 to investigate a HER2-associated regulatory enhancer in breast cancer."
     url: "https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis"
+    btn_label: "View Research"
+    btn_class: "btn--primary"
+  - alt: "Whole exome sequencing"
+    title: "Whole-Exome Sequencing Workflow"
+    excerpt: "Project-based Nextflow DSL2 workflow using fastp, BWA-MEM, SAMtools, GATK, and VEP."
+    url: "https://github.com/RojhanGenomics/human-wes-pipeline"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/prs-icon.png
-    alt: "PRS"
-    title: "Polygenic Risk Scores"
-    excerpt: "Literature review on PRS and precision medicine applications"
-    url: "https://github.com/RojhanGenomics/PRS-literature-review"
+  - alt: "Viral genomics pipeline"
+    title: "Viral Genomics Workflow"
+    excerpt: "Reproducible Nextflow workflow tested on public Ebola virus sequencing data."
+    url: "https://github.com/RojhanGenomics/viral-genomics-nextflow"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/rnaseq-icon.png
-    alt: "RNA-seq"
-    title: "RNA-Seq Analysis"
-    excerpt: "Differential expression analysis workflow"
+  - alt: "RNA sequencing"
+    title: "RNA-seq Differential Expression"
+    excerpt: "Project-based transcriptomic analysis and biological interpretation."
     url: "https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/md-icon.png
-    alt: "Molecular Dynamics Simulation"
-    title: "TP53–PRIMA-1 MD Simulation"
-    excerpt: "GROMACS-based simulation of a p53-reactivating small molecule — Work in Progress"
+  - alt: "Molecular dynamics"
+    title: "TP53–PRIMA-1 Molecular Dynamics"
+    excerpt: "Docking-to-MD computational project; work in progress."
     url: "https://github.com/RojhanGenomics/tp53-prima1-md-simulation"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /images/peacehealth-icon.png
-    alt: "PeaceHealth Insights"
-    title: "PeaceHealth Insights"
-    excerpt: "Multilingual digital mental health screening app"
-    url: "https://peacehealthapp-n74abyvxomzlztjnbbpbe7.streamlit.app/"
-    btn_label: "Try Live Demo"
+  - alt: "Polygenic risk scores"
+    title: "PRS Literature Review"
+    excerpt: "Literature synthesis on polygenic risk scores and precision medicine."
+    url: "https://github.com/RojhanGenomics/PRS-literature-review"
+    btn_label: "View Project"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-## Featured Projects
+## Selected Research & Computational Projects
 
 {% include feature_row %}
 
 ## DOI-Archived Research Outputs
 
 ### PX459-v2 gRNA Cloning Under Resource Constraints
-Retrospective research documentation and evidence audit of a resource-constrained PX459-v2 cloning workflow, archived as a citable research output.
+Retrospective research documentation of a resource-constrained PX459-v2 cloning workflow. Conclusions are limited to documented feasibility under the reported constraints; protocol superiority is not claimed.
 
-**DOI:** [10.5281/zenodo.22086082](https://doi.org/10.5281/zenodo.22086082) · **Type:** Software · [GitHub Repository](https://github.com/RojhanGenomics/px459-v2-resource-constrained-cloning)
+**DOI:** [10.5281/zenodo.22086082](https://doi.org/10.5281/zenodo.22086082) · [GitHub repository](https://github.com/RojhanGenomics/px459-v2-resource-constrained-cloning)
 
 ### Manual FFPE DNA Extraction for Long-Amplicon PCR
-Retrospective documentation of a manual FFPE DNA extraction optimization focused on recovery of longer PCR-amplicon targets in a subset of samples, archived as a citable research output.
+Retrospective documentation of a manual FFPE DNA-extraction workflow focused on recovery of longer PCR-amplifiable DNA fragments in a subset of samples. No universal superiority claim is made.
 
-**DOI:** [10.5281/zenodo.22091030](https://doi.org/10.5281/zenodo.22091030) · **Type:** Dataset · [GitHub Repository](https://github.com/RojhanGenomics/ffpe-manual-dna-extraction-long-amplicon-pcr)
+**DOI:** [10.5281/zenodo.22091030](https://doi.org/10.5281/zenodo.22091030) · [GitHub repository](https://github.com/RojhanGenomics/ffpe-manual-dna-extraction-long-amplicon-pcr)
 
-[View the full research portfolio →](/portfolio/)
+### TP53–PRIMA-1 Molecular Dynamics
+A citable snapshot of a computational molecular-dynamics project; the project remains under development.
+
+**DOI:** [10.5281/zenodo.22330272](https://doi.org/10.5281/zenodo.22330272) · [GitHub repository](https://github.com/RojhanGenomics/tp53-prima1-md-simulation)
 
 ## Selected Publications
 
-- **Functional analysis of a putative HER2-associated expressed enhancer, Her2-Enhancer1, in breast cancer cells**  
-  *Scientific Reports (Nature)*, 2023 | [View publications](/publications/)
+- **Functional analysis of a putative HER2-associated expressed enhancer, Her2-Enhancer1, in breast cancer cells** — *Scientific Reports*, 2023.
+- **Gene Editing for Unraveling the Regulatory Role of a HER2-Associated Enhancer with lncRNA GAS5 and Related Genes in Breast Cancer Cells** — *Journal of Advanced Immunopharmacology*, 2024.
+- **The association between Survivin −31 G/C promoter polymorphism and breast cancer risk** — *Zahedan Journal of Research in Medical Sciences*, 2015.
+- **Functional and Bioinformatic Investigation of HER2-Enhancer1 Using CRISPR/Cas9 Technology** — *Sarem Journal of Medical Research*, 2023.
 
-- **Gene Editing for Unraveling the Regulatory Role of a HER2-Associated Enhancer with lncRNA GAS5 and Related Genes**  
-  *Journal of Advanced Immunopharmacology*, 2024
-
-- **The association between Survivin -31 G/C promoter polymorphism and breast cancer risk**  
-  *Zahedan Journal of Research in Medical Sciences*, 2015
-
-[View all publications →](/publications/)
-
----
+[View the CV](/cv/) · [View all portfolio projects](/portfolio/) · [Publications](/publications/)
 
 ## Research & Professional Links
 
-| Platform | Link |
-|----------|------|
-| 🟢 ORCID | [0009-0009-2427-718X](https://orcid.org/0009-0009-2427-718X) |
-| 🔗 LinkedIn | [Mahdieh Rojhannezhad](https://linkedin.com/in/mahdieh-rojhannezhad) |
-| 🐙 GitHub | [RojhanGenomics](https://github.com/RojhanGenomics) |
-| 💼 Upwork | [Professional profile](https://www.upwork.com/freelancers/~015ac027e4d434b2e7) |
-| ✈️ Telegram | [Rojhan Genomics Assistant](https://t.me/RojhanGenomicsBot) |
+- **Location:** Iran
+- [ORCID: 0009-0009-2427-718X](https://orcid.org/0009-0009-2427-718X)
+- [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad/)
+- [GitHub](https://github.com/RojhanGenomics)
+- [ResearchGate](https://www.researchgate.net/profile/Mahdieh-Rojhannezhad)
 
 ## Contact
 
-For research collaboration, scientific writing, genomics analysis, or consulting inquiries:  
-📧 [mhdhroji@gmail.com](mailto:mhdhroji@gmail.com) · [mahdiehrojhan@gmail.com](mailto:mahdiehrojhan@gmail.com)
-
----
-
-## Featured Genomics Projects
-
-- 🔗 [WES Variant Interpretation Case Study](https://github.com/RojhanGenomics/WES-variant-interpretation-case-study)
-- 🔗 [HER2 Enhancer Functional Analysis](https://github.com/RojhanGenomics/HER2-Enhancer-Functional-Analysis)
-- 🔗 [PX459-v2 gRNA Cloning Under Resource Constraints](https://github.com/RojhanGenomics/px459-v2-resource-constrained-cloning) — DOI archived
-- 🔗 [Manual FFPE DNA Extraction for Long-Amplicon PCR](https://github.com/RojhanGenomics/ffpe-manual-dna-extraction-long-amplicon-pcr) — DOI archived
-- 🔗 [RNA-seq Differential Expression Analysis](https://github.com/RojhanGenomics/RNA-seq-Differential-Expression-Analysis)
-- 🔗 [Scientific Figure BioRender Collections](https://github.com/RojhanGenomics/Scientific-Figure-BioRender-Collections)
-- 🚧 [TP53–PRIMA-1 MD Simulation (Work in Progress)](https://github.com/RojhanGenomics/tp53-prima1-md-simulation)
-- 🩺 [PeaceHealth Insights (Live Demo)](https://peacehealthapp-n74abyvxomzlztjnbbpbe7.streamlit.app/)
-
-## Collaboration
-
-Available for:
-
-- Genomics Research Projects
-- Bioinformatics Analysis
-- Scientific Writing
-- Literature Review
-- Academic Collaboration
-- Freelance Consulting
-
-📍 **Tehran, Iran**
+For research collaboration, genomics analysis, scientific writing, or consulting inquiries: [mahdiehrojhan@gmail.com](mailto:mahdiehrojhan@gmail.com)

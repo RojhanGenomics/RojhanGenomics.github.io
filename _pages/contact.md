@@ -1,65 +1,22 @@
 ---
 permalink: /contact/
-title: "Contact Me"
+title: "Contact"
 author_profile: true
 layout: single
 ---
 
-## Get in Touch
+## Professional contact
 
-I am always open to collaboration, research opportunities, and scientific discussions.
+For research collaboration, genomics and bioinformatics projects, scientific writing, or professional opportunities:
 
----
+**Email:** [mahdiehrojhan@gmail.com](mailto:mahdiehrojhan@gmail.com)
 
-## Direct Contact
+## Professional profiles
 
-📧 **Email:** [mhdhroji@gmail.com](mailto:mhdhroji@gmail.com)
+- [GitHub](https://github.com/RojhanGenomics)
+- [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad/)
+- [ORCID](https://orcid.org/0009-0009-2427-718X)
+- [ResearchGate](https://www.researchgate.net/profile/Mahdieh-Rojhannezhad)
+- [Upwork](https://www.upwork.com/freelancers/~015ac027e4d434b2e7)
 
-📞 **Phone:** +989364485007
-
-📍 **Location:** Tehran, Iran
-
----
-
-## Professional Profiles
-
-| Platform | Link |
-|----------|------|
-| **GitHub** | [github.com/RojhanGenomics](https://github.com/RojhanGenomics) |
-| **LinkedIn** | [linkedin.com/in/mahdieh-rojhannezhad](https://linkedin.com/in/mahdieh-rojhannezhad) |
-| **ResearchGate** | [researchgate.net/profile/Mahdieh-Rojhannezhad](https://researchgate.net) |
-| **Google Scholar** | [scholar.google.com](https://scholar.google.com) *(add your link)* |
-
----
-
-## Research Interests
-
-- Cancer Genomics
-- Functional Genomics & CRISPR Technologies
-- Regulatory Genomics & Enhancer Biology
-- Precision Medicine
-- Whole Exome Sequencing (WES)
-- Variant Interpretation
-- Bioinformatics & Computational Genomics
-
----
-
-## Collaboration Opportunities
-
-I am interested in:
-
-- 🔬 Research collaborations in cancer genomics and molecular genetics
-- 📊 Bioinformatics and genomic data analysis projects
-- ✍️ Scientific writing and peer review
-- 🎓 Mentoring and teaching opportunities
-- 🌍 International remote genomics positions
-
----
-
-## Response Time
-
-I typically respond to emails within 24-48 hours.
-
----
-
-**Looking forward to connecting with you!**
+I welcome opportunities related to cancer and functional genomics, molecular genetics, reproducible bioinformatics workflows, research communication, and laboratory quality.

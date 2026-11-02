@@ -7,6 +7,8 @@ layout: single
 
 ## Professional contact
 
+**Location:** Iran
+
 For research collaboration, genomics and bioinformatics projects, scientific writing, or professional opportunities:
 
 **Email:** [mahdiehrojhan@gmail.com](mailto:mahdiehrojhan@gmail.com)

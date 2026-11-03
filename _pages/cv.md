@@ -12,6 +12,9 @@ layout: single
 **Location:** Iran  
 [mahdiehrojhan@gmail.com](mailto:mahdiehrojhan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahdieh-rojhannezhad/) · [GitHub](https://github.com/RojhanGenomics) · [ORCID](https://orcid.org/0009-0009-2427-718X)
 
+[Download CV (PDF)](/files/Mahdieh_Rojhannezhad_CV_2026.pdf)  
+[Download Quality Portfolio (Word)](/files/Mahdieh_Rojhannezhad_Quality_Portfolio_2026.docx)
+
 ## Professional summary
 
 Ph.D. geneticist with professional experience in cancer functional genomics, CRISPR/Cas9, molecular and cytogenetic diagnostics, laboratory supervision, and scientific communication. Doctoral research investigated a HER2-associated regulatory enhancer and lncRNA GAS5 in breast cancer. Complementary project-based experience includes NGS/WES workflows, genomic variant interpretation, viral-genomics analysis, RNA-seq, and molecular-dynamics workflows. Laboratory-quality knowledge is presented as prior quality-oriented diagnostic-laboratory responsibility complemented by self-directed study, not formal certification or independent regulatory practice.
